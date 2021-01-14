@@ -1,51 +1,83 @@
 [
   {
-    "name": "dogup",
-    "description": "lorem il me soule",
+    "name": "Tempo",
+    "description": "Tempo est un projet réaliser en équipe ou je me suis occuper du front en VueJS avec un collègue. Le design m’a été fournis par une autre parti de l’équipe avec qui j’ai échanger des idée.",
     "img": "img/dogup.png",
-    "categories": ["design", "logo", "Illustrator"]
+    "categories": ["Design", "Logo", "Développement"],
+    "tools": ["Vue Js", "Illustrator"],
+    "link": "www.tempo.fr"
   },
   {
-    "name": "batman",
-    "description": "lorem il me soule",
-    "img": "img/batman.png",
-    "categories": ["dev"],
-    "link": "www.couilles.fr"
+  "name": "Dog Up",
+  "description": "Dog Up est une marque fictive de lux de vêtement pour chient. J'ai commencé par réaliser le logo, dedans il y est représenter un chien avec un noeud papillon et haut de forme pour montrer que c’est une marque de luxe pour chien. Et ensuite j’ai développer le site d’après une maquette d’un collègue avec le framework vue JS.",
+  "img": "img/dogup.png",
+  "categories": ["Développement", "Design", "Travail en équipe"],
+  "tools": ["Vue Js", "Illustrator"],
+  "link": "www.dogup.fr"
   },
   {
-    "name": "dogup",
-    "description": "lorem il me soule",
-    "img": "img/dogup.png",
-    "categories": ["design", "logo", "Illustrator"]
+    "name": "Eagles Agency",
+    "description": "Eagles agency est un projet de logo, l’aigle représente l’entreprisse Eagles qui décolle le style est minimaliste.",
+    "img": "img/eagle.png",
+    "categories": [ "Design"],
+    "tools": ["Illustrator"],
+    "link": "www.eagles-agency.fr"
   },
   {
-    "name": "dogup",
-    "description": "lorem il me soule",
-    "img": "img/dogup.png",
-    "categories": ["design", "logo", "Illustrator"]
+    "name": "Tesla",
+    "description": "Le projet était d’animer le logo tesla sous after effect.",
+    "img": "img/tesla.png",
+    "categories": [ "Design"],
+    "tools": ["After Effect"],
+    "link": "www.eagles-agency.fr"
   },
   {
-    "name": "dogup",
-    "description": "lorem il me soule",
-    "img": "img/dogup.png",
-    "categories": ["design", "logo", "Illustrator"]
+    "name": "Ethicadvisor",
+    "description": "Lors de mon stage, chez Ethicadvisor j’ai redesigner le site pour le moderniser et mettre des couleurs plus chaleureuse",
+    "img": "img/ethicadvisor.pdf",
+    "categories": [ "Design"],
+    "tools": ["Illustrator"],
+    "link": "www.ethicadviso.fr"
   },
   {
-    "name": "dogup",
-    "description": "lorem il me soule",
-    "img": "img/dogup.png",
-    "categories": ["design", "logo", "Illustrator"]
+    "name": "BATMAN",
+    "description": "Le projet était de faire une histoire interactive en javascript et j’ai choisi de faire sur le thème de Batman.",
+    "img": "img/Batman.pdf",
+    "categories": [ "Design"],
+    "tools": ["Illustrator", "html", "css", "Java Script"],
+    "link": "https://mayeulcroguennec.github.io/BATMAN/"
   },
   {
-    "name": "dogup",
-    "description": "lorem il me soule",
-    "img": "img/dogup.png",
-    "categories": ["design", "logo", "Illustrator"]
+    "name": "Custom.me",
+    "description": "custom.me est mon premier projet de design en groupe, ma collègue et moi avons crée le design pour cette marque de longboard.",
+    "img": "img/customme.pdf",
+    "categories": [ "Design", "Travail en équipe"],
+    "tools": ["sketch"],
+    "link": "https://mayeulcroguennec.github.io/BATMAN/"
   },
   {
-    "name": "dogup",
-    "description": "lorem il me soule",
-    "img": "img/dogup.png",
-    "categories": ["design", "logo", "Illustrator"]
+  "name": "Amazon",
+  "description": "Le but du projet était de designer une page produit d’amazone afin le rendre plus simple d’utilisation pour n’importe quelle utilisateur.",
+  "img": "img/Amazon.pdf",
+  "categories": [ "Design"],
+  "tools": ["sketch"],
+  "link": "https://mayeulcroguennec.github.io/BATMAN/"
+  },
+  {
+  "name": "Nespresso",
+  "description": "Le but du projet était de designer une page produit nespreso, elle devait ne pas être surchargé.",
+  "img": "img/Amazon.pdf",
+  "categories": [ "Design"],
+  "tools": ["sketch"],
+  "link": "https://mayeulcroguennec.github.io/BATMAN/"
+  },
+  {
+    "name": "Fixie",
+    "description": "Ma première maquette était de réaliser un site e commerce sur les vélo fixie en utilisant deux couleur",
+    "img": "img/Amazon.pdf",
+    "categories": [ "Design"],
+    "tools": ["Illustrator"],
+    "link": "https://mayeulcroguennec.github.io/BATMAN/"
+  }
   }
 ]
