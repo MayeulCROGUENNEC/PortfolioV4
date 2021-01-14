@@ -1,15 +1,51 @@
-{
-  "name": "$vendor_name$/$package_name$",
-  "description": "$description$",
-  "minimum-stability": "$stability$",
-  "license": "$license$",
-  "authors": [
-    {
-      "name": "$author$",
-      "email": "$email$"
-    }
-  ],
-  "require": {
-    $END$
+[
+  {
+    "name": "dogup",
+    "description": "lorem il me soule",
+    "img": "img/dogup.png",
+    "categories": ["design", "logo", "Illustrator"]
+  },
+  {
+    "name": "batman",
+    "description": "lorem il me soule",
+    "img": "img/batman.png",
+    "categories": ["dev"],
+    "link": "www.couilles.fr"
+  },
+  {
+    "name": "dogup",
+    "description": "lorem il me soule",
+    "img": "img/dogup.png",
+    "categories": ["design", "logo", "Illustrator"]
+  },
+  {
+    "name": "dogup",
+    "description": "lorem il me soule",
+    "img": "img/dogup.png",
+    "categories": ["design", "logo", "Illustrator"]
+  },
+  {
+    "name": "dogup",
+    "description": "lorem il me soule",
+    "img": "img/dogup.png",
+    "categories": ["design", "logo", "Illustrator"]
+  },
+  {
+    "name": "dogup",
+    "description": "lorem il me soule",
+    "img": "img/dogup.png",
+    "categories": ["design", "logo", "Illustrator"]
+  },
+  {
+    "name": "dogup",
+    "description": "lorem il me soule",
+    "img": "img/dogup.png",
+    "categories": ["design", "logo", "Illustrator"]
+  },
+  {
+    "name": "dogup",
+    "description": "lorem il me soule",
+    "img": "img/dogup.png",
+    "categories": ["design", "logo", "Illustrator"]
   }
-}
+]

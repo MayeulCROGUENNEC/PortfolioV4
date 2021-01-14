@@ -1,5 +1,7 @@
 <template>
-$END$
+<div id="project">
+  <p>je suce des gros projet</p>
+</div>
 </template>
 
 <script>

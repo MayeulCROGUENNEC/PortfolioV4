@@ -1,5 +1,7 @@
 <template>
-$END$
+  <div id="disclaimer">
+    <p>je suuce les mention légales</p>
+  </div>
 </template>
 
 <script>
