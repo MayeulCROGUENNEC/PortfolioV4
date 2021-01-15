@@ -26,7 +26,7 @@ const routes = [
   {
     path: '/disclaimer',
     name: 'Disclaimer',
-    component: Disclaimer
+    component: Disclaimer,
   }
 ]
 
