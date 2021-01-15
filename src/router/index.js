@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Project from '../views/Project.vue'
 import Disclaimer from '../views/Disclaimer.vue'
+import projects from '../assets/database/projects'
 
 Vue.use(VueRouter)
 
@@ -13,9 +14,14 @@ const routes = [
     component: Home
   },
   {
-    path: '/project',
+    path: '/projects/:id',
     name: 'Project',
-    component: Project
+    component: Project,
+    props: route => {
+      return {
+        project: projects[route.params.id]
+      }
+    }
   },
   {
     path: '/disclaimer',
