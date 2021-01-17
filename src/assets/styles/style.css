@@ -1,0 +1,51 @@
+/*///////////////////////////
+  Fonts
+///////////////////////////*/
+@font-face {
+  font-family: "Aldrich";
+  src: url('../font/Aldrich-Regular.ttf');
+}
+@font-face {
+  font-family: "roboto-regular";
+  src: url('../font/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: "roboto-medium";
+  src: url(../font/Roboto-Medium.ttf);
+}
+
+/*///////////////////////////
+  Global variables
+///////////////////////////*/
+:root {
+  /* Base font size */
+  font-size: 10px;
+  /* Base font size */
+  --base-space: 5rem;
+  /* Set neon color */
+  --neon-text-color: #fff;
+  --neon-border-color: #9BCD39;
+  /* Base color */
+  --primary-color: #101010;
+  --secondary-color: #9BCD39;
+}
+
+/*///////////////////////////
+  H1 title
+///////////////////////////*/
+h1 {
+  padding: 4rem 0;
+  font-family: "Aldrich", serif;
+  font-size: 64px;
+  color: #fff;
+  /*animation: flicker 1.5s infinite alternate;*/
+}
+/*///////////////////////////
+  H2 title
+///////////////////////////*/
+h2 {
+  padding: 3rem 0 2rem 0;
+  color: var(--secondary-color);
+  font-family: "Aldrich", serif;
+  font-size: 36px;
+}
