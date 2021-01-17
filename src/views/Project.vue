@@ -1,9 +1,11 @@
 <template>
   <div id="project" class="flickerBorder">
     <div>
-      <a class="left-down flickerText">
+      <router-link to="/home">
+        <a class="left-down flickerText">
         &#8592;
-      </a>
+        </a>
+      </router-link>
     </div>
     <section class="project">
       <h1 class="flickerText"> {{ project.name }} </h1>

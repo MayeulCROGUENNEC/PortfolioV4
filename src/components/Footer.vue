@@ -3,7 +3,7 @@
     <div>
       <p>@ 2020 - Mayeul Croguennec</p>
       <span class="space"></span>
-      <router-link to="/disclamer">Mentions légales</router-link>
+      <router-link to="/disclaimer">Mentions légales</router-link>
     </div>
 
     <div>

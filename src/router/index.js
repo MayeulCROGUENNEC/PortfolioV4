@@ -27,6 +27,11 @@ const routes = [
     path: '/disclaimer',
     name: 'Disclaimer',
     component: Disclaimer,
+  },
+  {
+    path: '/home',
+    name: 'Home',
+    component: Home,
   }
 ]
 
