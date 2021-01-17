@@ -1,10 +1,8 @@
 <template>
   <div id="project" class="flickerBorder">
     <div>
-      <router-link to="/home">
-        <a class="left-down flickerText">
+      <router-link to="/home" class="left-down flickerText">
         &#8592;
-        </a>
       </router-link>
     </div>
     <section class="project">
@@ -12,9 +10,9 @@
       <div class="container">
         <figure>
           <img class="jajjj" :src="require(`@/assets/img/projects/${project.img}`)"  alt="project" >
-          <p class="telmemore">
+          <a class="telmemore" :href="project.link" onclick="window.open(this.href); return false;">
             Voir plus !
-          </p>
+          </a>
         </figure>
 
         <div class="rpart">
@@ -96,7 +94,8 @@ export default {
   }
 
   .sacachips {
-    margin-top: 7%;
+    margin-top: 10px;
+    display: flex;
   }
   .chips {
     font-size: 12px;
@@ -106,6 +105,7 @@ export default {
     margin-right: 10px;
     color: var(--primary-color);
     padding: 4px 15px;
+    display: flex;
   }
 
   .telmemore {
@@ -148,7 +148,7 @@ export default {
       text-align: center;
     }
     .sacachips {
-      margin-top: 10%;
+      margin-top: 8px;
     }
     .chips {
       font-size: 8px;

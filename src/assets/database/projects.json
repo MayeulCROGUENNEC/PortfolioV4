@@ -5,7 +5,7 @@
     "img": "tempo.png",
     "categories": ["Design", "Logo", "Dev"],
     "tools": ["Vue Js", "Illustrator"],
-    "link": "www.tempo.fr"
+    "link": "/imagesbig/tempo_ART/index.html"
   },
   {
     "name": "Dog Up",
@@ -13,15 +13,15 @@
     "img": "dogup.png",
     "categories": ["Dev", "Design", "Teams"],
     "tools": ["Vue Js", "Illustrator"],
-    "link": "www.dogup.fr"
+    "link": "/imagesbig/dogup2.png"
   },
   {
     "name": "Eagles Agency",
     "description": "Eagles agency est un projet de logo, l’aigle représente l’entreprisse Eagles qui décolle le style est minimaliste.",
-    "img": "aigle.jpg",
+    "img": "aigle.png",
     "categories": [ "Design"],
     "tools": ["Illustrator"],
-    "link": "www.eagles-agency.fr"
+    "link": "/imagesbig/aigle2.jpg"
   },
   {
     "name": "Tesla",
@@ -29,7 +29,7 @@
     "img": "Logo_tesla.gif",
     "categories": [ "Design"],
     "tools": ["After Effect"],
-    "link": "www.eagles-agency.fr"
+    "link": "/imagesbig/logotesla2.gif"
   },
   {
     "name": "Ethicadvisor",
@@ -37,7 +37,7 @@
     "img": "ethicadvisor.png",
     "categories": [ "Design"],
     "tools": ["Illustrator"],
-    "link": "www.ethicadviso.fr"
+    "link": "/imagesbig/ethicadvisor2.pdf"
   },
   {
     "name": "BATMAN",
@@ -53,7 +53,7 @@
     "img": "mincustom_me.png",
     "categories": [ "Design", "Teams"],
     "tools": ["sketch"],
-    "link": "https://mayeulcroguennec.github.io/BATMAN/"
+    "link": "/imagesbig/customme2.jpg"
   },
   {
     "name": "Amazon",
@@ -61,7 +61,7 @@
     "img": "amazon.png",
     "categories": [ "Design"],
     "tools": ["sketch"],
-    "link": "https://mayeulcroguennec.github.io/BATMAN/"
+    "link": "/imagesbig/amazon2.jpg"
   },
   {
     "name": "Nespresso",
@@ -69,7 +69,7 @@
     "img": "minNes.png",
     "categories": [ "Design"],
     "tools": ["sketch"],
-    "link": "https://mayeulcroguennec.github.io/BATMAN/"
+    "link": "/imagesbig/nespresso2.jpg"
   },
   {
     "name": "Fixie",
@@ -77,6 +77,6 @@
     "img": "minFixie.png",
     "categories": [ "Design"],
     "tools": ["Illustrator"],
-    "link": "https://mayeulcroguennec.github.io/BATMAN/"
+    "link": "/imagesbig/fixie2.jpg"
   }
 ]

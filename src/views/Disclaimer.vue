@@ -2,10 +2,8 @@
   <div id="disclaimer" class="flickerBorder">
 
     <div>
-      <router-link to="/home">
-        <a class="left-down flickerText">
+      <router-link to="/home" class="left-down flickerText">
           &#8592;
-        </a>
       </router-link>
     </div>
 
@@ -136,8 +134,9 @@
 
     <p>Si l’Utilisateur souhaite savoir comment <a href="http://mayeulcroguennec.com/">http://mayeulcroguennec.com/</a> utilise ses Données Personnelles, demander à les rectifier ou s’oppose à leur traitement, l’Utilisateur peut contacter <a href="http://mayeulcroguennec.com/">http://mayeulcroguennec.com/</a> par écrit à l’adresse suivante : </p>
 
-    Mayeul Croguennec – DPO, Croguennec <br>
-    9 rue marcel sembat 93100 Montreuil.
+    <p>Mayeul Croguennec – DPO, Croguennec
+      <br>
+      9 rue marcel sembat 93100 Montreuil.</p>
 
     <p>Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il souhaiterait que <a href="http://mayeulcroguennec.com/">http://mayeulcroguennec.com/</a> corrige, mette à jour ou supprime, en s’identifiant précisément avec une copie d’une pièce d’identité (carte d’identité ou passeport). </p>
 
@@ -240,6 +239,10 @@ h1 {
 
 p {
   font-size: 18px;
+  text-align: left;
+}
+li {
+  text-align: left;
 }
 #disclaimer {
   border-width: 4px;
