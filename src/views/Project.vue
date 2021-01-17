@@ -1,5 +1,10 @@
 <template>
   <div id="project" class="flickerBorder">
+    <div>
+      <a class="left-down flickerText">
+        &#8592;
+      </a>
+    </div>
     <section class="project">
       <h1 class="flickerText"> {{ project.name }} </h1>
       <div class="container">
@@ -104,6 +109,12 @@ export default {
   .telmemore {
     font-size: 18px;
     margin-top: 5%;
+  }
+  .left-down {
+    font-size: 48px;
+    padding: 2rem 0;
+    position: absolute;
+    left: 80px;
   }
 
 
