@@ -13,23 +13,31 @@
 
         <div class="wrapper">
           <div class="icon">
+            <a href="src/assets/img/mayeul_croguennec_cv.pdf" onclick="window.open(this.href); return false;">
             <div class="tooltip">Mon CV</div>
             <span><img src="@/assets/svg/cv.svg" alt="cv"></span>
+              </a>
           </div>
 
           <div class="icon">
+            <a href="mailto:ma.croguennec@orange.fr">
             <div class="tooltip">Email</div>
             <span><img src="@/assets/svg/mail.svg" alt="email"></span>
+              </a>
           </div>
 
           <div class="icon">
+            <a href="https://github.com/MayeulCROGUENNEC" onclick="window.open(this.href); return false;">
             <div class="tooltip">Linkedin</div>
             <span><img src="@/assets/svg/linkedin.svg" alt="linkedin"></span>
+            </a>
           </div>
 
           <div class="icon">
+            <a href="https://github.com/MayeulCROGUENNEC" onclick="window.open(this.href); return false;">
             <div class="tooltip">Github</div>
             <span><img src="@/assets/svg/github.svg" alt="github"></span>
+            </a>
           </div>
         </div>
       </aside>
