@@ -190,6 +190,10 @@
     transform: translateX(-50%) rotate(45deg);
     transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   }
+  .icon a {
+    display: flex;
+    justify-content: center;
+  }
 
   /*///////////////////////////
   Section Projects
