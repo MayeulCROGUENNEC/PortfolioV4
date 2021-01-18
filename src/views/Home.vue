@@ -129,6 +129,7 @@
   .arrow-down {
     font-size: 48px;
     padding: 2rem 0;
+
   }
 
   /* Buttons - Tooltips */
@@ -206,6 +207,9 @@
     row-gap: 1.5rem;
     grid-template-columns: repeat(4, 1fr);
   }
+  #projects {
+    margin-top: 0;
+  }
 
 
   @media only screen and (max-width: 600px) {
@@ -237,6 +241,10 @@
       column-gap: 1rem;
       row-gap: 1rem;
       grid-template-columns: repeat(2, 1fr);
+    }
+
+    #projects {
+      margin-top: 100px;
     }
   }
 </style>
