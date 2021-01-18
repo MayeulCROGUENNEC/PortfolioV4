@@ -13,7 +13,7 @@
 
         <div class="wrapper">
           <div class="icon">
-            <a href="src/assets/img/mayeul_croguennec_cv.pdf" onclick="window.open(this.href); return false;">
+            <a href="/mayeulcroguenneccv.pdf" @click="window.open(this.href)">
             <div class="tooltip">Mon CV</div>
             <span><img src="@/assets/svg/cv.svg" alt="cv"></span>
               </a>

@@ -9,7 +9,7 @@
       <h1 class="flickerText"> {{ project.name }} </h1>
       <div class="container">
         <figure>
-          <div class="jajjj" :style="{ backgroundImage: `url(${require('@/assets/img/projects/'+project.img)}` }">
+          <div class="imaje" :style="{ backgroundImage: `url(${require('@/assets/img/projects/'+project.img)}` }">
           </div>
           <a class="telmemore" :href="project.link" onclick="window.open(this.href); return false;">
             Voir plus !
@@ -62,9 +62,11 @@ export default {
     padding: 0 2rem;
   }
 
-  .jajjj {
+  .imaje {
     height: 500px;
-    width: 500px;
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   .project {
@@ -126,7 +128,7 @@ export default {
 
 
   @media only screen and (max-width: 600px) {
-    .jajjj {
+    .imaje {
       height: 100px;
       width: 100px;
       margin-top: 50px;
