@@ -237,6 +237,9 @@ h1 {
   margin-top: 0px;
 }
 
+h3 {
+  text-align: left;
+}
 p {
   font-size: 18px;
   text-align: left;

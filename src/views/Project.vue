@@ -9,7 +9,8 @@
       <h1 class="flickerText"> {{ project.name }} </h1>
       <div class="container">
         <figure>
-          <img class="jajjj" :src="require(`@/assets/img/projects/${project.img}`)"  alt="project" >
+          <div class="jajjj" :style="{ backgroundImage: `url(${require('@/assets/img/projects/'+project.img)}` }">
+          </div>
           <a class="telmemore" :href="project.link" onclick="window.open(this.href); return false;">
             Voir plus !
           </a>
@@ -47,6 +48,10 @@ export default {
     }
   }
 }
+
+
+
+
 </script>
 
 <style scoped>
@@ -58,8 +63,8 @@ export default {
   }
 
   .jajjj {
-    height: 80%;
-    width: 80%;
+    height: 500px;
+    width: 500px;
   }
 
   .project {
