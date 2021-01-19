@@ -27,7 +27,7 @@
           </div>
 
           <div class="icon">
-            <a href="https://github.com/MayeulCROGUENNEC" onclick="window.open(this.href); return false;">
+            <a href="https://www.linkedin.com/in/mayeul-croguennec/" onclick="window.open(this.href); return false;">
             <div class="tooltip">Linkedin</div>
             <span><img src="@/assets/svg/linkedin.svg" alt="linkedin"></span>
             </a>
