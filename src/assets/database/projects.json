@@ -1,7 +1,7 @@
 [
   {
     "name": "Tempo",
-    "description": "Tempo est un projet réaliser en équipe ou je me suis occuper du front en VueJS avec un collègue. Le design m’a été fournis par une autre parti de l’équipe avec qui j’ai échanger des idée.",
+    "description": "Ce projet a été réalisé en équipe. Je me suis chargé du Front en Vue.js à partir d’un design élaboré par une autre partie du groupe à l’issue d’un brainstorming commun. ",
     "img": "tempo.png",
     "categories": ["Design", "Logo", "Dev"],
     "tools": ["Vue Js", "Illustrator"],
@@ -9,7 +9,7 @@
   },
   {
     "name": "Dog Up",
-    "description": "Dog Up est une marque fictive de lux de vêtement pour chient. J'ai commencé par réaliser le logo, dedans il y est représenter un chien avec un noeud papillon et haut de forme pour montrer que c’est une marque de luxe pour chien. Et ensuite j’ai développer le site d’après une maquette d’un collègue avec le framework vue JS.",
+    "description": "Dog Up est une marque fictive de vêtements de luxe pour chien. Pour mettre en avant le positionnement luxe de la marque, le logo présente un chien avec un nœud papillon et un chapeau haut de forme. Je me suis chargé de développer le site avec le Framework Vue.js à partir d’une maquette préparée par un collègue.",
     "img": "dogup.png",
     "categories": ["Dev", "Design", "Teams"],
     "tools": ["Vue Js", "Illustrator"],
@@ -17,7 +17,7 @@
   },
   {
     "name": "Eagles Agency",
-    "description": "Eagles agency est un projet de logo, l’aigle représente l’entreprisse Eagles qui décolle le style est minimaliste.",
+    "description": "Eagles Agency est un projet de logo. L’aigle représente l’entreprisse Eagles qui décolle et le style est minimaliste.",
     "img": "aigle.jpg",
     "categories": [ "Design"],
     "tools": ["Illustrator"],
@@ -25,7 +25,7 @@
   },
   {
     "name": "Tesla",
-    "description": "Le projet était d’animer le logo tesla sous after effect.",
+    "description": "L’objectif de ce projet était d’animer le logo Tesla sous After Effects.",
     "img": "Logo_tesla.gif",
     "categories": [ "Design"],
     "tools": ["After Effect"],
@@ -33,7 +33,7 @@
   },
   {
     "name": "Ethicadvisor",
-    "description": "Lors de mon stage, chez Ethicadvisor j’ai redesigner le site pour le moderniser et mettre des couleurs plus chaleureuse",
+    "description": "Lors d’un stage chez Ethicadvisor, j’ai eu l’opportunité de redesigner le site pour le moderniser et utiliser des couleurs plus chaleureuses",
     "img": "ethicadvisor.png",
     "categories": [ "Design"],
     "tools": ["Illustrator"],
@@ -41,7 +41,7 @@
   },
   {
     "name": "BATMAN",
-    "description": "Le projet était de faire une histoire interactive en javascript et j’ai choisi de faire sur le thème de Batman.",
+    "description": "L’objectif du  projet était de faire une histoire interactive en Javascript. J’ai choisi de faire ce projet sur le thème de Batman.",
     "img": "Batman.png",
     "categories": [ "Design"],
     "tools": ["Illustrator", "html", "css", "Java Script"],
@@ -49,7 +49,7 @@
   },
   {
     "name": "Custom.me",
-    "description": "custom.me est mon premier projet de design en groupe, ma collègue et moi avons crée le design pour cette marque de longboard.",
+    "description": "Custom.me était mon premier projet de design en groupe. Nous avons créé, avec une collègue, le design de cette marque de longboard.",
     "img": "mincustom_me.png",
     "categories": [ "Design", "Teams"],
     "tools": ["sketch"],
@@ -57,7 +57,7 @@
   },
   {
     "name": "Amazon",
-    "description": "Le but du projet était de designer une page produit d’amazone afin le rendre plus simple d’utilisation pour n’importe quelle utilisateur.",
+    "description": "Le but du projet était de designer une page produit d’Amazon afin la rendre plus simple d’utilisation pour tous les utilisateurs.",
     "img": "amazon.png",
     "categories": [ "Design"],
     "tools": ["sketch"],
@@ -65,7 +65,7 @@
   },
   {
     "name": "Nespresso",
-    "description": "Le but du projet était de designer une page produit nespreso, elle devait ne pas être surchargé.",
+    "description": "Le but de ce projet était de designer une page produit Nespresso, avec la contrainte que celle-ci ne devait pas être surchargé.",
     "img": "minNes.png",
     "categories": [ "Design"],
     "tools": ["sketch"],
@@ -73,7 +73,7 @@
   },
   {
     "name": "Fixie",
-    "description": "Ma première maquette était de réaliser un site e commerce sur les vélo fixie en utilisant deux couleur",
+    "description": "La première maquette sur laquelle j’ai travaillé était pour un site de e-commerce de vélos Fixie, avec la contrainte de n’utiliser que deux couleurs",
     "img": "minFixie.png",
     "categories": [ "Design"],
     "tools": ["Illustrator"],

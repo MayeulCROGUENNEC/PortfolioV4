@@ -72,7 +72,7 @@ export default {
   .project {
     height: calc(100vh - (var(--base-space)*2) - 8px);
     /* fullscreen - padding-top and bottom(main) - border(home) */
-    margin-top: 0%;
+    margin-top: 0;
   }
 
   .container {
@@ -126,7 +126,7 @@ export default {
     left: 80px;
   }
 
-  @media only screen and (max-width: 1000px) {
+  @media only screen and (max-width: 1366px) {
     .imaje {
       height: 300px;
       width: 300px;

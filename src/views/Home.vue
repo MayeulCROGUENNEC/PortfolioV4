@@ -47,7 +47,7 @@
         <h2>Développeur Front-End</h2>
         <p>
           Bonjour je m’appelle Mayeul Croguennec. Je suis actuellement diplômé d’un bachelor web. Je recherche un CDI
-          ou CDD en tant que dévelopeur web ou bien dévelopeur Front.
+          ou un CDD en tant que développeur web ou bien développeur Front.
         </p>
       </article>
 
@@ -60,7 +60,7 @@
       <!-- Presentation -->
       <div class="presentation">
         <h2>Mes différents projets ici</h2>
-        <p>Mon expertise au travers de mes projets.</p>
+        <p>Mon expertise présentée au travers de mes projets.</p>
       </div>
 
       <!-- Projects -->
